@@ -1,4 +1,6 @@
-# virtual-joystick-android
+# Android Virtual Joystick View
+
+This is a fork of [virtual-joystick-android](https://github.com/controlwear/virtual-joystick-android).
 
 **v1.10.1** _(New version - [support custom images](#image), button & background size, limited direction, normalized coordinate, alpha border)_
 
